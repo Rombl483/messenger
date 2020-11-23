@@ -9,6 +9,7 @@ public class Client {
         System.out.print("Welcome! Messenger 1.0 client");
 
         // TODO сделать загрузку параметров изконфигурационного файла
+        //
         Scanner scanner = new Scanner(System.in);
         System.out.println("IP:");
         String ip = scanner.nextLine();
